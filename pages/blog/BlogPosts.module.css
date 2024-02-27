@@ -1,0 +1,37 @@
+.container {
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 800px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.postContainer {
+  display: grid;
+  gap: 20px;
+}
+
+.post {
+  border: 1px solid #eee;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.postTitle {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.postInfo {
+  font-size: 14px;
+  color: #666;
+}
+
+.postContent {
+  margin-top: 10px;
+}
